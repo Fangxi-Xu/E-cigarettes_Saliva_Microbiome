@@ -4,5 +4,13 @@ The effect of electronic cigarette (e-cigarette) smoking, especially its long-te
  ## Organization of this repository
 [*Alpha Diversity](https://github.com/Fangxi-Xu/E-cigarettes_Saliva_Microbiome/blob/main/Alpha_Diversity)
 
+[*Beta Diversity](https://github.com/Fangxi-Xu/E-cigarettes_Saliva_Microbiome/tree/main/Beta_Diversity)
+
+[*Differential Taxa]
+
+[*Ternary Diagram]
+
+[*Correlation Analysis]
+
 ## Publication
 
