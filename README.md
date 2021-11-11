@@ -10,7 +10,7 @@ The effect of electronic cigarette (e-cigarette) smoking, especially its long-te
 
 [*Ternary Diagram](https://github.com/Fangxi-Xu/E-cigarettes_Saliva_Microbiome/tree/main/Ternary_diagram)
 
-[*Cytokine level comparison]
+[*Cytokine level comparison](https://github.com/Fangxi-Xu/E-cigarettes_Saliva_Microbiome/tree/main/Cytokine_level_comparison)
 
 [*Correlation Analysis](https://github.com/Fangxi-Xu/E-cigarettes_Saliva_Microbiome/tree/main/Correlation_analysis)
 
