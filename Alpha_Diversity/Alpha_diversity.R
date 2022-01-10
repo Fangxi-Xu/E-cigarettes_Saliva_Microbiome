@@ -139,5 +139,4 @@ stat.test.wil <- phylo_df_melt %>%
   filter(p.signif != "ns") #filter non-sig pairs
 stat.test.wil
 
-#paired sample visit compare
-#Ziyan did it - please add script
+#paired sample visit compare please refer to the script folder - Figure1G.R
