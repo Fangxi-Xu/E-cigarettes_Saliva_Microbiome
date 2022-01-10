@@ -10,4 +10,4 @@ of inflammatory processes, significantly increased in the ES group but not in th
 
 data and script please refer to:
 
-[*Correlation - Figure6A]()
+[*Correlation - Figure6A](https://github.com/Fangxi-Xu/E-cigarettes_Saliva_Microbiome/blob/main/Scripts/Figure_6A.R)
