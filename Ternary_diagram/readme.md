@@ -17,4 +17,4 @@ the ES group at the follow-up visit, indicating an increase in its relative abun
 smoking patients. The distribution of bacterial species assigned to other phyla also indicated
 shifts over time, potentially due to participants’ smoking habits.
 
-![(Figure S3)](). 
+![(Figure S3)](https://github.com/Fangxi-Xu/E-cigarettes_Saliva_Microbiome/blob/main/Ternary_diagram/FigureS3.png). 
