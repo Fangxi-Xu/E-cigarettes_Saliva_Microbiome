@@ -12,3 +12,6 @@ of inflammatory processes, significantly increased in the ES group but not in th
 groups.
 
  ![(Figure 6A)](https://github.com/Fangxi-Xu/E-cigarettes_Saliva_Microbiome/blob/main/Cytokine_level_comparison/Figure6_msd.png). 
+ 
+ data and script please refer to:
+ [*Figure6A](https://github.com/Fangxi-Xu/E-cigarettes_Saliva_Microbiome/blob/main/Scripts/Figure_6A.R)
