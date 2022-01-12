@@ -15,7 +15,7 @@ The effect of electronic cigarette (e-cigarette) smoking, especially its long-te
 [*Correlation Analysis](https://github.com/Fangxi-Xu/E-cigarettes_Saliva_Microbiome/tree/main/Correlation_analysis)
 
 ## Publication
-
+https://onlinelibrary.wiley.com/doi/10.1111/omi.12361
 
 ## Contact
 Please email me at fx363@nyu.edu for any questions
